@@ -15,24 +15,17 @@
 * Unfortunately, This project currently is just supporting English-To-Arabic Translation, However, it can be expaneded easily to another languages 
 
 
-## TODO : 
+# Screenshot : 
+
+![First Image](img/1.png)
+![Second Image](img/2.png)
+
+
+# TODO : 
 - [ ] Use RegisterHotKey API to support more hot keys 
 - [ ] Support other languages 
 - [ ] Improve and design auto correction system to handle OCR process output 
 - [ ] Support other translation engines 
 
 
-## Screenshot : 
-
-##### First Method : 
-<p align="center">
-  <img height="80%" width="80%" src="http://hostr.co/file/970/kch4B0pnWG6V/Untitled.png">
-  <img src="http://hostr.co/file/970/KstVxXm2zR5Y/Capture.PNG">
-</p>
-
-
-##### Second Method : 
-<p align="center">
-  <img src="http://hostr.co/file/970/6pNkmHsFgx2Y/Capture.PNG">
-</p>
-
+##### This project is no longer supported due to lack of time. Also, I asked a firend of mine to make a similar version for Linux (https://github.com/mosheto/JTranslator).
