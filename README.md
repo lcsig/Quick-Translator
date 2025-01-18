@@ -29,3 +29,9 @@
 
 
 ##### This project is no longer supported due to lack of time. Also, I asked a firend of mine to make a similar version for Linux (https://github.com/mosheto/JTranslator).
+
+
+## Buy me a Coffee: 
+BTC: bc1q2kqvggm552h0csyr0awa2zepdapxdqnacw0z5w
+
+![BTC](https://raw.githubusercontent.com/lcsig/API-Hooking/refs/heads/master/img/btc.png)
